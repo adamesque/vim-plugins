@@ -1,0 +1,3 @@
+[submodule "detectindent"]
+	path = detectindent
+	url = https://github.com/ciaranm/detectindent.git
