@@ -1,3 +1,9 @@
 [submodule "detectindent"]
 	path = detectindent
 	url = https://github.com/ciaranm/detectindent.git
+[submodule "html5.vim"]
+	path = html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/vim-scripts/gitignore.git
